@@ -4,7 +4,7 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 
-Systems and computing engineer with more than 5 years of experience in software analysis, design, development and improvement. With extensive knowledge in web application development, APIs and business integration under architectural models such as microservices. Teamwork skills, communication, time management, analysis and problem solving skills.
+Systems and computing engineer with experience in software analysis, design, development and improvement. With extensive knowledge in web application development, APIs and business integration under architectural models such as microservices. Teamwork skills, communication, time management, analysis and problem solving skills.
 
 - 🌱 I’m currently learning ...
   - Mongo DB
