@@ -7,6 +7,7 @@
 Systems and computing engineer with experience in software analysis, design, development and improvement. With extensive knowledge in web application development, APIs and business integration under architectural models such as microservices. Teamwork skills, communication, time management, analysis and problem solving skills.
 
 - 🌱 I’m currently learning ...
+  - Blockchain
   - Mongo DB
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
