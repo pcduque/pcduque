@@ -8,6 +8,7 @@ Systems and computing engineer with experience in software analysis, design, dev
 
 - 🌱 I’m currently learning ...
   - Mongo DB
+
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
